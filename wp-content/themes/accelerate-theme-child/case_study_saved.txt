@@ -1,0 +1,16 @@
+<h6>Content Strategy, Design & Development</h5>
+<h5>Client: MailChimp</h6>
+<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do
+tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.</p>
+<h5><a href="">Visit Live Site</a></h5>
+</aside>
+
+<div class="case-study-images">
+<a href="http://localhost:8888/accelerate/wp-content/uploads/2014/12/mc-thumbnail-11.png"><img src="http://localhost:8888/accelerate/wp-content/uploads/2014/12/mc-thumbnail-11-300x221.png" alt="mc-thumbnail-1" class="alignnone size-medium wp-image-47345" /></a>
+
+
+<a href="http://localhost:8888/accelerate/wp-content/uploads/2014/12/mc-thumbnail-21.png"><img src="http://localhost:8888/accelerate/wp-content/uploads/2014/12/mc-thumbnail-21-222x300.png" alt="mc-thumbnail-2" class="alignnone size-medium wp-image-47344" /></a>
+
+<a href="http://localhost:8888/accelerate/wp-content/uploads/2014/12/mc-thumbnail-31.png"><img src="http://localhost:8888/accelerate/wp-content/uploads/2014/12/mc-thumbnail-31-150x300.png" alt="mc-thumbnail-3" class="alignnone size-medium wp-image-47343" /></a>
+</div>
+
